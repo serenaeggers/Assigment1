@@ -3,3 +3,9 @@ body
    width: 960px;
    background-color: #FDFCDC;
 }
+
+h1
+{
+   background-color: #8B0000;
+   color: #FDFCDC;
+}
