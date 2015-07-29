@@ -20,3 +20,12 @@ h1
    margin: 10px;
    border: 2px solid black;
 }
+
+h2
+{
+   background-color: black;
+   color: Ivory;
+   padding: 5px;
+   margin-top: 0px;
+   bottom-margin: 0px;
+}
